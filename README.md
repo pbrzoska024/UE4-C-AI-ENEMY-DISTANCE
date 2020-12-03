@@ -32,7 +32,7 @@ With Values C++ Exposed to BP it's easy to setup AI and decide what projectile w
 
 ## Video:
 
-https://www.youtube.com/watch?v=20Qj2slPjMg&feature=youtu.be
+https://www.youtube.com/watch?v=2dqDr_ZIUNU&ab_channel=PBrzoska
 
 
 
