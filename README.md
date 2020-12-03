@@ -20,7 +20,7 @@ Main goal was to code:
 
 All done with C++/BehaviorTree/Blackboard
 
-C++ classes:
+## C++ classes:
 
 * [ControllerAiFollower.h/cpp -> Main class for Ai controll]
 * [CharacterShooter.h/cpp - > Main class for shooter character]
