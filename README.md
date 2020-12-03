@@ -27,6 +27,9 @@ All done with C++/BehaviorTree/Blackboard
 
 
 With Values C++ Exposed to BP it's easy to setup AI and decide what projectile we want him to spawn
+
+![AiDistance](https://user-images.githubusercontent.com/53401206/101002085-33601700-3560-11eb-8609-8a7fba3fb769.png)
+
 ## Video:
 
 https://www.youtube.com/watch?v=20Qj2slPjMg&feature=youtu.be
